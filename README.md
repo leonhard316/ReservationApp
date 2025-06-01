@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/bcc5b418-f522-474e-ba1a-85e416c5c6d3)
 ## 予約・問診アプリ  
 ### 想定機能  
 [患者向け]  
@@ -41,8 +41,16 @@ ReservationApp/<br>
 ├── README.md <br> 
 └── build.gradle / pom.xml      # Gradle or Maven プロジェクト管理ファイル  <br>
 
-## 追加したい機能
+## 予約画面情報
+予約入力画面↓
+![予約用フォーム](https://github.com/user-attachments/assets/7e715345-ef86-4293-978b-d6bed4f564eb)
+
+予約情報確認用画面↓
+![予約情報確認用フォーム](https://github.com/user-attachments/assets/4c0393ad-6144-46b6-86e6-ec9841ddb586)
+
+## 追加したい機能・更新したい箇所
 ・アップロード画像の文字読み取り <br> 
 ・問診から疾患予測（簡易）<br>  
 ・スマホのヘルスケアデータからのデータ読み取りと，データからの受診勧奨 <br> 
 ・ユーザーの受診歴(疾患，処方歴)，健診データをユーザー側で閲覧可能にする  <br>
+・洗練されたUI
