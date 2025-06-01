@@ -41,10 +41,11 @@ ReservationApp/<br>
 └── build.gradle / pom.xml      # Gradle or Maven プロジェクト管理ファイル  <br>
 
 ## 予約画面情報
-予約入力画面↓
+予約入力画面↓<br>
+
 ![予約用フォーム](https://github.com/user-attachments/assets/7e715345-ef86-4293-978b-d6bed4f564eb)
 
-予約情報確認用画面↓
+予約情報確認用画面↓<br>
 ![予約情報確認用フォーム](https://github.com/user-attachments/assets/4c0393ad-6144-46b6-86e6-ec9841ddb586)
 
 ## 追加したい機能・更新したい箇所
