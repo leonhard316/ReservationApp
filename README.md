@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/bcc5b418-f522-474e-ba1a-85e416c5c6d3)
 ## 予約・問診アプリ  
 ### 想定機能  
 [患者向け]  
